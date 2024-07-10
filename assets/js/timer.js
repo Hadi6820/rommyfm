@@ -24,7 +24,7 @@ var x = setInterval(function() {
   // If the count down is over, write some text 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("cd").innerHTML = "Click to access the Web";
+    document.getElementById("cd").innerHTML = "Kembali ke Beranda";
   }
   // If the count down is over, jump to page 
   if (distance < 0) {
