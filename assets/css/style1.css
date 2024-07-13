@@ -2033,12 +2033,13 @@ footer {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  background-color: #0F1E40;
+  background-color: #0f3a91;
   margin-top: 130px;
 }
 
 footer p {
   text-align: center;
+  font-size: 16px;
   margin: 20px 0px;
   color: #fff;
 }
@@ -2046,6 +2047,10 @@ footer p {
 footer p a {
   color: #fff;
   transition: all .5s;
+}
+
+footer p a:hover {
+ color: #ff8a00;
 }
 
 /* 
